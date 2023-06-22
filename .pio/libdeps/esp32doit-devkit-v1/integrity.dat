@@ -1,0 +1,6 @@
+mikalhart/TinyGPSPlus@^1.0.3
+adafruit/Adafruit BME280 Library@^2.2.2
+electroniccats/MPU6050@^0.6.0
+https://github.com/adafruit/Adafruit_INA219.git
+plerup/EspSoftwareSerial@^8.0.3
+arduino-libraries/NTPClient@^3.2.1
